@@ -7,7 +7,7 @@ AI product engineer in Bucharest.
 
 #### FlowCopilot
 
-[FlowCopilot](https://flowcopilot.app) is an AI calendar for personalized productivity. Around it, the [flowcopilot](https://github.com/flowcopilot) org builds open agent infrastructure:
+[FlowCopilot](https://flowcopilot.app) is an AI calendar for personalized productivity. Around it, we build open agent infrastructure:
 
 | Project | What it does |
 | --- | --- |
@@ -23,10 +23,9 @@ AI product engineer in Bucharest.
 | [**oh-my-t3**](https://github.com/gabimoncha/oh-my-t3) | like oh-my-pi, but for T3 Code |
 | [**skills**](https://github.com/gabimoncha/skills) | The agent skills I use every day. |
 
-#### Self-hosting and setup
+#### Setup
 
-[dotfiles](https://github.com/gabimoncha/dotfiles) ·
-[nvim](https://github.com/TudorAndrei/nvim)
+[dotfiles](https://github.com/gabimoncha/dotfiles)
 
 #### Stack
 
