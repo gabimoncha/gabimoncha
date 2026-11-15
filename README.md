@@ -1,16 +1,37 @@
-## Hi there 👋
+### Finding balance in maximizing customer satisfaction and shareholder value
 
-<!--
-**gabimoncha/gabimoncha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI product engineer in Bucharest.
 
-Here are some ideas to get you started:
+- Co-founder of [FlowCopilot](https://flowcopilot.app)
+- Co-founder of [Formidable Builders](https://formidable.builders)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### FlowCopilot
+
+[FlowCopilot](https://flowcopilot.app) is an AI calendar for personalized productivity. Around it, the [flowcopilot](https://github.com/flowcopilot) org builds open agent infrastructure:
+
+| Project | What it does |
+| --- | --- |
+| [**aether**](https://github.com/flowcopilot/aether) | Permissioned communication network between personal AI agents. Rust. |
+| [**audioflow**](https://github.com/flowcopilot/audioflow) | Elixir voice, image and video agent runtime: one OTP session per conversation, Whisper, Kokoro and Membrane media input. |
+| [**skills**](https://github.com/flowcopilot/skills) | Agent skills the team maintains, generated from upstream sources. |
+| [**skill-bundles**](https://github.com/flowcopilot/skill-bundles) | GitHub template that bundles upstream agent skills into one, with pinned revisions, license checks and a weekly sync. |
+
+#### Agent tooling
+
+| Project | What it does |
+| --- | --- |
+| [**oh-my-t3**](https://github.com/gabimoncha/oh-my-t3) | like oh-my-pi, but for T3 Code |
+| [**skills**](https://github.com/gabimoncha/skills) | The agent skills I use every day. |
+
+#### Self-hosting and setup
+
+[dotfiles](https://github.com/gabimoncha/dotfiles) ·
+[nvim](https://github.com/TudorAndrei/nvim)
+
+#### Stack
+
+TypeScript · everything the AI can vibe with
+
+---
+
+[X / Twitter](https://x.com/gabimoncha)
