@@ -20,7 +20,7 @@ AI product engineer in Bucharest.
 
 | Project | What it does |
 | --- | --- |
-| [**oh-my-t3**](https://github.com/gabimoncha/oh-my-t3) | like oh-my-pi, but for T3 Code |
+| [**oh-my-t3**](https://github.com/gabimoncha/oh-my-t3) | like oh-my-pi, but for [T3 Code](https://github.com/pingdotgg/t3code) |
 | [**cursor-rules-cli**](https://github.com/gabimoncha/cursor-rules-cli) | i project i created to bootstrap cursor rules, before skills.sh were a thing |
 | [**skills**](https://github.com/gabimoncha/skills) | The agent skills I use every day. |
 
